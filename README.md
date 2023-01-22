@@ -24,6 +24,3 @@ Os jogadores primeiro escolhem uma cor (vermelho ou preto) e, em seguida, se rev
 
 ** _Vitória Horizontal_ **
 ![](horizontal.gif)
-
-** _Vitória Diagonal_ **
-![](diagonal.gif)
