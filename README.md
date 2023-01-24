@@ -16,11 +16,3 @@ Os jogadores primeiro escolhem uma cor (vermelho ou preto) e, em seguida, se rev
 ##  Tecnologia
 
 -    HTML, CSS e jQuery
-
-##  Visualização
-
-** _Vitória Vertical_ **
-![](vertical.gif)
-
-** _Vitória Horizontal_ **
-![](horizontal.gif)
